@@ -1,6 +1,6 @@
 # Mongoctr
 
-Mongoctr 是一个 MongoDB 基本操作进行了封装的包。
+Mongoctr 是一个 MongoDB 基本操作(增删查改)进行了封装的包。
 
 ## 安装
 首先安装 [Node.js](https://nodejs.org/en/) 和 [mongodb](https://www.mongodb.com/download-center)。 然后:
