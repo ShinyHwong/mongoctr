@@ -1,4 +1,5 @@
 # Mongoctr
+English click [here](./README_en.md).
 
 Mongoctr 是一个 MongoDB 基本操作(增删查改)进行了封装的包。
 
